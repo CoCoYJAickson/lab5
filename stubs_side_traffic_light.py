@@ -1,5 +1,3 @@
-# Student Number 400422179, Xiaoyu Wu
-
 class SideTrafficLight():
     trafficLights = "red"
     time = 0
